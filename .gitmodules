@@ -1,0 +1,6 @@
+[submodule "muses-client"]
+	path = muses-client
+	url = https://github.com/omiologic/muses-client
+[submodule "muses-server"]
+	path = muses-server
+	url = https://github.com/omiologic/muses-server
